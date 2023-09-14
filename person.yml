@@ -1,4 +1,9 @@
 person:
   name:
     first_name: Stig
+    last_name: Husson
+  age: 15
+  class: prog
+  start_year: 2021
+  hobbies: Fotboll
 
