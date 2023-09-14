@@ -4,4 +4,4 @@ car:
   year: "2009"
   reg: abc123
   attributes:
-    -0
+    - 0
