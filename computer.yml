@@ -1,3 +1,13 @@
 computer:
   cpu:
     cores: 8
+    manufacturer: "Hallo"
+    frequency: 198
+  memory:
+    manufacturer: "IT"
+    size: 12
+    type: ""
+  disk:
+    manufacturer: "microsoft"
+    size: 9
+    type: "gh"
