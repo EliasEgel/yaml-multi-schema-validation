@@ -6,7 +6,7 @@ computer:
   memory:
     manufacturer: "IT"
     size: 12
-    type: ""
+    type: "mmm"
   disk:
     manufacturer: "microsoft"
     size: 9
