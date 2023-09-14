@@ -3,4 +3,5 @@ car:
   model: v70
   year: "2009"
   reg: abc123
-
+  attributes:
+    -0
